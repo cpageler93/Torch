@@ -16,7 +16,7 @@ To install `Torch` with Carthage, setup Carthage for your project as described i
 Then add this line to your Cartfile:
 
 ```
-github "cpageler93/Torch" ~> 0.1.0
+github "cpageler93/Torch" ~> 0.2.0
 ```
 
 ## Usage
